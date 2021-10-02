@@ -10,7 +10,7 @@ All actors found in the dataset occur in the graph as nodes.
 Each event that is in the dataset is displayed as a directed edge from actor1 to actor2.
 
 ## Example
-**Example graph using 500 dataset entries to generate the graph.**
+**Example using 500 dataset entries to generate the graph.**
 <img src="./assets/example_graph.png">
 
 ### TODOs
