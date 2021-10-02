@@ -8,6 +8,9 @@ EventCodes describe an event or action that actor1 performed on actor2. Each Eve
 All actors found in the dataset occur in the graph as nodes.
 ### Edges
 Each event that is in the dataset is displayed as a directed edge from actor1 to actor2.
+
+## Example
+**Example graph using 500 dataset entries to generate the graph.**
 <img src="./assets/example_graph.png">
 
 ### TODOs
