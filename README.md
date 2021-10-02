@@ -3,7 +3,7 @@
 ### Actors
 Actors are entities that have been identified by GDELT. Each article has an actor1 and actor2.
 ### EventCodes
-EventCodes describe an event that actor1 performed on actor2. Each EventCode has its own color in the graph.
+EventCodes describe an event or action that actor1 performed on actor2. Each EventCode has its own color in the graph.
 ### Nodes
 All actors found in the dataset occur in the graph as nodes.
 ### Edges
